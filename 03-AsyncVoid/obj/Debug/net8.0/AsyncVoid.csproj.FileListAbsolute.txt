@@ -1,0 +1,14 @@
+C:\repos\home\AsyncAwaitProject\03-AsyncVoid\bin\Debug\net8.0\AsyncVoid.exe
+C:\repos\home\AsyncAwaitProject\03-AsyncVoid\bin\Debug\net8.0\AsyncVoid.deps.json
+C:\repos\home\AsyncAwaitProject\03-AsyncVoid\bin\Debug\net8.0\AsyncVoid.runtimeconfig.json
+C:\repos\home\AsyncAwaitProject\03-AsyncVoid\bin\Debug\net8.0\AsyncVoid.dll
+C:\repos\home\AsyncAwaitProject\03-AsyncVoid\bin\Debug\net8.0\AsyncVoid.pdb
+C:\repos\home\AsyncAwaitProject\03-AsyncVoid\obj\Debug\net8.0\AsyncVoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\home\AsyncAwaitProject\03-AsyncVoid\obj\Debug\net8.0\AsyncVoid.AssemblyInfoInputs.cache
+C:\repos\home\AsyncAwaitProject\03-AsyncVoid\obj\Debug\net8.0\AsyncVoid.AssemblyInfo.cs
+C:\repos\home\AsyncAwaitProject\03-AsyncVoid\obj\Debug\net8.0\AsyncVoid.csproj.CoreCompileInputs.cache
+C:\repos\home\AsyncAwaitProject\03-AsyncVoid\obj\Debug\net8.0\AsyncVoid.dll
+C:\repos\home\AsyncAwaitProject\03-AsyncVoid\obj\Debug\net8.0\refint\AsyncVoid.dll
+C:\repos\home\AsyncAwaitProject\03-AsyncVoid\obj\Debug\net8.0\AsyncVoid.pdb
+C:\repos\home\AsyncAwaitProject\03-AsyncVoid\obj\Debug\net8.0\AsyncVoid.genruntimeconfig.cache
+C:\repos\home\AsyncAwaitProject\03-AsyncVoid\obj\Debug\net8.0\ref\AsyncVoid.dll

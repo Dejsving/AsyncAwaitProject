@@ -1,0 +1,14 @@
+C:\repos\home\AsyncAwaitProject\04-BlockingWait\bin\Debug\net8.0\BlockingWait.exe
+C:\repos\home\AsyncAwaitProject\04-BlockingWait\bin\Debug\net8.0\BlockingWait.deps.json
+C:\repos\home\AsyncAwaitProject\04-BlockingWait\bin\Debug\net8.0\BlockingWait.runtimeconfig.json
+C:\repos\home\AsyncAwaitProject\04-BlockingWait\bin\Debug\net8.0\BlockingWait.dll
+C:\repos\home\AsyncAwaitProject\04-BlockingWait\bin\Debug\net8.0\BlockingWait.pdb
+C:\repos\home\AsyncAwaitProject\04-BlockingWait\obj\Debug\net8.0\BlockingWait.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\home\AsyncAwaitProject\04-BlockingWait\obj\Debug\net8.0\BlockingWait.AssemblyInfoInputs.cache
+C:\repos\home\AsyncAwaitProject\04-BlockingWait\obj\Debug\net8.0\BlockingWait.AssemblyInfo.cs
+C:\repos\home\AsyncAwaitProject\04-BlockingWait\obj\Debug\net8.0\BlockingWait.csproj.CoreCompileInputs.cache
+C:\repos\home\AsyncAwaitProject\04-BlockingWait\obj\Debug\net8.0\BlockingWait.dll
+C:\repos\home\AsyncAwaitProject\04-BlockingWait\obj\Debug\net8.0\refint\BlockingWait.dll
+C:\repos\home\AsyncAwaitProject\04-BlockingWait\obj\Debug\net8.0\BlockingWait.pdb
+C:\repos\home\AsyncAwaitProject\04-BlockingWait\obj\Debug\net8.0\BlockingWait.genruntimeconfig.cache
+C:\repos\home\AsyncAwaitProject\04-BlockingWait\obj\Debug\net8.0\ref\BlockingWait.dll

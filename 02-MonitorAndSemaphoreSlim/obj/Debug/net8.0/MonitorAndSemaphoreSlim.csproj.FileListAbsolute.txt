@@ -1,0 +1,14 @@
+C:\repos\home\AsyncAwaitProject\02-MonitorAndSemaphoreSlim\bin\Debug\net8.0\MonitorAndSemaphoreSlim.exe
+C:\repos\home\AsyncAwaitProject\02-MonitorAndSemaphoreSlim\bin\Debug\net8.0\MonitorAndSemaphoreSlim.deps.json
+C:\repos\home\AsyncAwaitProject\02-MonitorAndSemaphoreSlim\bin\Debug\net8.0\MonitorAndSemaphoreSlim.runtimeconfig.json
+C:\repos\home\AsyncAwaitProject\02-MonitorAndSemaphoreSlim\bin\Debug\net8.0\MonitorAndSemaphoreSlim.dll
+C:\repos\home\AsyncAwaitProject\02-MonitorAndSemaphoreSlim\bin\Debug\net8.0\MonitorAndSemaphoreSlim.pdb
+C:\repos\home\AsyncAwaitProject\02-MonitorAndSemaphoreSlim\obj\Debug\net8.0\MonitorAndSemaphoreSlim.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\home\AsyncAwaitProject\02-MonitorAndSemaphoreSlim\obj\Debug\net8.0\MonitorAndSemaphoreSlim.AssemblyInfoInputs.cache
+C:\repos\home\AsyncAwaitProject\02-MonitorAndSemaphoreSlim\obj\Debug\net8.0\MonitorAndSemaphoreSlim.AssemblyInfo.cs
+C:\repos\home\AsyncAwaitProject\02-MonitorAndSemaphoreSlim\obj\Debug\net8.0\MonitorAndSemaphoreSlim.csproj.CoreCompileInputs.cache
+C:\repos\home\AsyncAwaitProject\02-MonitorAndSemaphoreSlim\obj\Debug\net8.0\MonitorAndSemaphoreSlim.dll
+C:\repos\home\AsyncAwaitProject\02-MonitorAndSemaphoreSlim\obj\Debug\net8.0\refint\MonitorAndSemaphoreSlim.dll
+C:\repos\home\AsyncAwaitProject\02-MonitorAndSemaphoreSlim\obj\Debug\net8.0\MonitorAndSemaphoreSlim.pdb
+C:\repos\home\AsyncAwaitProject\02-MonitorAndSemaphoreSlim\obj\Debug\net8.0\MonitorAndSemaphoreSlim.genruntimeconfig.cache
+C:\repos\home\AsyncAwaitProject\02-MonitorAndSemaphoreSlim\obj\Debug\net8.0\ref\MonitorAndSemaphoreSlim.dll

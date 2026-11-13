@@ -1,0 +1,14 @@
+C:\repos\home\AsyncAwaitProject\05-AwaitOrNot\bin\Debug\net8.0\AwaitOrNot.exe
+C:\repos\home\AsyncAwaitProject\05-AwaitOrNot\bin\Debug\net8.0\AwaitOrNot.deps.json
+C:\repos\home\AsyncAwaitProject\05-AwaitOrNot\bin\Debug\net8.0\AwaitOrNot.runtimeconfig.json
+C:\repos\home\AsyncAwaitProject\05-AwaitOrNot\bin\Debug\net8.0\AwaitOrNot.dll
+C:\repos\home\AsyncAwaitProject\05-AwaitOrNot\bin\Debug\net8.0\AwaitOrNot.pdb
+C:\repos\home\AsyncAwaitProject\05-AwaitOrNot\obj\Debug\net8.0\AwaitOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\home\AsyncAwaitProject\05-AwaitOrNot\obj\Debug\net8.0\AwaitOrNot.AssemblyInfoInputs.cache
+C:\repos\home\AsyncAwaitProject\05-AwaitOrNot\obj\Debug\net8.0\AwaitOrNot.AssemblyInfo.cs
+C:\repos\home\AsyncAwaitProject\05-AwaitOrNot\obj\Debug\net8.0\AwaitOrNot.csproj.CoreCompileInputs.cache
+C:\repos\home\AsyncAwaitProject\05-AwaitOrNot\obj\Debug\net8.0\AwaitOrNot.dll
+C:\repos\home\AsyncAwaitProject\05-AwaitOrNot\obj\Debug\net8.0\refint\AwaitOrNot.dll
+C:\repos\home\AsyncAwaitProject\05-AwaitOrNot\obj\Debug\net8.0\AwaitOrNot.pdb
+C:\repos\home\AsyncAwaitProject\05-AwaitOrNot\obj\Debug\net8.0\AwaitOrNot.genruntimeconfig.cache
+C:\repos\home\AsyncAwaitProject\05-AwaitOrNot\obj\Debug\net8.0\ref\AwaitOrNot.dll
